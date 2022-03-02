@@ -1,0 +1,5 @@
+auth: 3000
+portal: 3001
+component-processing: 8081
+packaging-delivery: 8083
+payment-service: 8086
